@@ -9,4 +9,5 @@ number = 123
 
 _price_ = "1"
 
-MY_CONST = 50
+MY_CONST = '51'
+
