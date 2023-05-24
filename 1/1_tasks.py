@@ -8,6 +8,7 @@ _price_ = "1"
 MY_CONSTANTA: str = '56'
 print(MY_CONSTANTA)
 
+
 a = 5
 b = 2
 c = a+b
